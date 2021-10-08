@@ -8,3 +8,10 @@ Version 05-02 end: Adding a second level of horizontal navigation
 
 
 Link : https://codepen.io/br646/pen/GRvKqQM
+
+Version 05-01 end: Adding and styling a second level of vertical navigation
+
+Link: https://codepen.io/br646/pen/PoKYzaQ
+
+
+
